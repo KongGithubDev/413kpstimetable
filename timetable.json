@@ -284,9 +284,9 @@
       "period": "6",
       "start_time": "13:00",
       "end_time": "13:50",
-      "subject": "Club Activities",
-      "teacher": "-",
-      "roomname": "-"
+      "subject": "คอมพิวเตอร์ (ว31084)",
+      "teacher": "ธิติภัทร",
+      "roomname": "748"
     },
     {
       "day": "Thursday",
@@ -296,6 +296,15 @@
       "subject": "คอมพิวเตอร์ (ว31084)",
       "teacher": "ธิติภัทร",
       "roomname": "748"
+    },
+    {
+      "day": "Thursday",
+      "period": "8",
+      "start_time": "14:40",
+      "end_time": "15:30",
+      "subject": "ภาษาต่างประเทศ (ต31202)",
+      "teacher": "-",
+      "roomname": "-"
     },
     {
       "day": "Friday",
